@@ -1,0 +1,24 @@
+{% extends "theme::layouts/default" %}
+
+{% block content %}
+    {% set brands = entries('brands').paginate() %}
+
+    <div class="row">
+        {% for brand in brands %}
+            <div class="col-lg-4 col-md-6 sb-preview text-center">
+                <div class="card h-100">
+                    <a class="sb-preview-img" href="{{ brand.route('view') }}">
+                        {{ brand.logo.make.class("card-img-top").alt(brand.title).fit(200,200) | raw }}
+                    </a>
+                    <div class="card-body">
+                        <h4 class="card-title">{{ brand.title }}</h4>
+                    </div>
+                </div>
+            </div>
+        {% endfor  %}
+    </div>
+
+
+    {{ brands.render|raw }}
+
+{% endblock %}

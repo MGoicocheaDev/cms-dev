@@ -11,7 +11,7 @@ class MgdevModuleLecturesCreateCategoriesStream extends Migration
      * @var array
      */
     protected $stream = [
-        'slug' => 'categories',
+         'slug' => 'categories',
          'title_column' => 'name',
          'translatable' => true,
          'trashable' => false,
@@ -30,6 +30,9 @@ class MgdevModuleLecturesCreateCategoriesStream extends Migration
             'required' => true,
         ],
         'slug' => [
+            'config' => [
+                'slugify' => 'name',
+            ],
             'unique' => true,
             'required' => true,
         ],

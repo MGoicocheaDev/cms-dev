@@ -34,6 +34,9 @@ class MgdevModuleLecturesCreateTeachersStream extends Migration
             'required' => true,
         ],
         'slug' => [
+            'config' => [
+                'slugify' => 'name',
+            ],
             'unique' => true,
             'required' => true,
         ],

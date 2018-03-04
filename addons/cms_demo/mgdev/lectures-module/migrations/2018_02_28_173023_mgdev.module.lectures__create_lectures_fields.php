@@ -18,7 +18,7 @@ class MgdevModuleLecturesCreateLecturesFields extends Migration
         'slug' => [
             'type' => 'anomaly.field_type.slug',
             'config' => [
-                'slugify' => 'name',
+                'slugify' => 'title',
                 'type' => '_'
             ],
         ],
