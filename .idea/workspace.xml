@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1fa4baa-fae9-4769-bbe0-808fed9919fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/brands-module/resources/lang/es/addon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/brands-module/resources/lang/es/button.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/brands-module/resources/lang/es/field.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/brands-module/resources/lang/es/permission.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/brands-module/resources/lang/es/section.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/brands-module/resources/lang/es/stream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/brands-module/resources/views/brand/index.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/brands-module/resources/views/brand/view.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/brands-module/src/Http/Controller/FrontEnd/BrandController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/photos-module/resources/lang/es/addon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/photos-module/resources/lang/es/button.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/photos-module/resources/lang/es/field.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/photos-module/resources/lang/es/permission.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/photos-module/resources/lang/es/section.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/photos-module/resources/lang/es/stream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/videos-module/resources/lang/es/addon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/videos-module/resources/lang/es/button.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/videos-module/resources/lang/es/field.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/videos-module/resources/lang/es/permission.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/videos-module/resources/lang/es/section.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/videos-module/resources/lang/es/stream.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/cms_demo/mgdev/lectures-module/migrations/2018_02_28_173023_mgdev.module.lectures__create_lectures_fields.php" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/lectures-module/migrations/2018_02_28_173023_mgdev.module.lectures__create_lectures_fields.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/cms_demo/mgdev/lectures-module/migrations/2018_02_28_173532_mgdev.module.lectures__create_categories_stream.php" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/lectures-module/migrations/2018_02_28_173532_mgdev.module.lectures__create_categories_stream.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/cms_demo/mgdev/lectures-module/migrations/2018_02_28_173656_mgdev.module.lectures__create_teachers_stream.php" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/lectures-module/migrations/2018_02_28_173656_mgdev.module.lectures__create_teachers_stream.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/cms_demo/mgdev/lectures-module/src/LecturesModule.php" afterPath="$PROJECT_DIR$/addons/cms_demo/mgdev/lectures-module/src/LecturesModule.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -113,8 +88,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="45" />
-    <option name="y" value="23" />
+    <option name="x" value="46" />
+    <option name="y" value="24" />
     <option name="width" value="1235" />
     <option name="height" value="777" />
   </component>
@@ -283,15 +258,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520035612916</updated>
-      <workItem from="1520035618951" duration="8611000" />
+      <workItem from="1520035618951" duration="9870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8611000" />
+    <option name="totallyTimeSpent" value="9870000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="45" y="23" width="1235" height="777" extended-state="6" />
+    <frame x="46" y="24" width="1235" height="777" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24979044" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -593,7 +569,7 @@
         <state relative-caret-position="451">
           <caret line="56" column="19" lean-forward="false" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="19" />
           <folding>
-            <element signature="e#7#65#0#PHP" expanded="true" />
+            <element signature="e#7#65#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -611,7 +587,7 @@
         <state relative-caret-position="450">
           <caret line="30" column="15" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="15" />
           <folding>
-            <element signature="e#7#65#0#PHP" expanded="true" />
+            <element signature="e#7#65#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -621,7 +597,7 @@
         <state relative-caret-position="186">
           <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="14" />
           <folding>
-            <element signature="e#7#65#0#PHP" expanded="true" />
+            <element signature="e#7#65#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -679,7 +655,7 @@
         <state relative-caret-position="225">
           <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
           <folding>
-            <element signature="e#61#123#0#PHP" expanded="true" />
+            <element signature="e#61#123#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
